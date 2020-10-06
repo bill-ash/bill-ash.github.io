@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://bill-ash.com/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://bill-ash.com/tags/docker/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/docker/</loc>
+    <loc>https://bill-ash.com/post/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://bill-ash.com/tags/r/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://bill-ash.com/tags/shiny/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/shiny/</loc>
+    <loc>https://bill-ash.com/tags/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/using-docker-with-r/</loc>
+    <loc>https://bill-ash.com/post/using-docker-with-r/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://bill-ash.com/about/</loc>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>https://bill-ash.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://bill-ash.com/projects/</loc>
   </url>
   
 </urlset>
