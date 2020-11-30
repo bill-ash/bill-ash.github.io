@@ -6,23 +6,18 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bill-ash.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Using Docker with R</title>
-      <link>https://bill-ash.com/post/using-docker-with-r/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <title>Hello!</title>
+      <link>https://bill-ash.com/post/2020-11-26-hello/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://bill-ash.com/post/using-docker-with-r/</guid>
-      <description>&lt;figure class=&#34;alignright&#34;&gt;
-    &lt;img src=&#34;https://bill-ash.com/img/docker.png&#34;/&gt; 
-&lt;/figure&gt;
-
-&lt;p&gt;Still working out the details of my site, but I thought I would do a quick
-post on starting a Docker container with shiny-server running on Ubuntu.&lt;/p&gt;</description>
+      <guid>https://bill-ash.com/post/2020-11-26-hello/</guid>
+      <description>Hello! From R 4.3.</description>
     </item>
     
     <item>
@@ -32,18 +27,9 @@ post on starting a Docker container with shiny-server running on Ubuntu.&lt;/p&g
       
       <guid>https://bill-ash.com/about/</guid>
       <description>Hi. My name is Bill Ash.
-I’m an accounting coordinator for a New York based telecom and low voltage integrration company. I enjoy bike racing, accounting, rstats, coffee, and using open source technology to solve problems.
+I’m an accounting coordinator for a New York telecom, and low voltage integration company. I enjoy bike racing, accounting, programming, coffee, and using open source technology to solve problems.
 I was captain of the Midwestern State University cycling team where I double majored in accounting and finance.
-I don’t have much to write about. Postings on things I google a lot.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://bill-ash.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bill-ash.com/projects/</guid>
-      <description>Updates for things that I work on in my free time.</description>
+Post are about things I google a lot.</description>
     </item>
     
   </channel>
